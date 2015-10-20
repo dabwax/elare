@@ -1,0 +1,4 @@
+# Instruções
+
+$ npm install
+$ gulp
